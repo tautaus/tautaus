@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tautaus)](https://github.com/anuraghazra/github-readme-stats)
+
+
 You can use the [editor on GitHub](https://github.com/tautaus/tautaus.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
