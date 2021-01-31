@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on intel.
+
 - 🌱 I’m currently learning everything. :pig:
 - 🤔 I’m looking for help with everything. :pig2:
 - 📫 How to reach me: sunt9751@gmail.com
