@@ -11,4 +11,7 @@
 - 🌱 I’m currently learning everything. :pig:
 - 🤔 I’m looking for help with everything. :pig2:
 - 📫 How to reach me: sunt9751@gmail.com
+- Graduated from University of Toronto. Data Science and Applied Math.
+- Currently working as a software engineer.
+- New to github, currently focus only on python/c++/java projects/issues first.
 
